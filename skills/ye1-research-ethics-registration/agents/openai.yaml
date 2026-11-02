@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ye1 医学研究伦理与登记"
+  short_description: "结合研究方案和医院要求，协助准备伦理审查与研究登记材料。"
+  default_prompt: "使用 $ye1-research-ethics-registration，请根据这份研究方案和医院表格，帮我准备伦理申请材料。"
